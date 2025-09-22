@@ -1,0 +1,22 @@
+{
+  "name": "jogo_da_velha",
+  "version": "1.0.0",
+  "description": "Trabalho 22/09",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raonny77/jogo_da_velha.git"
+  },
+  "author": "Raonny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raonny77/jogo_da_velha/issues"
+  },
+  "homepage": "https://github.com/Raonny77/jogo_da_velha#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
